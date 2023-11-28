@@ -26,7 +26,15 @@ namespace Framework.Pages
         internal static string GetElementText(string locator)
         {
             return GetElement(locator).Text;
+
+            namespace Framework.Pages
+    {
+        internal class ShoppingCartPage
+        { 
+           
+             return new ShoppingCartPage();
         }
     }
 }
+
     
